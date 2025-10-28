@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
     <RootNamespace>LUAManager</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <AssemblyName>AB360 LUA Manager</AssemblyName>
@@ -10,6 +10,7 @@
     <Authors>xxxman360</Authors>
     <Company>AB360</Company>
     <Copyright>(C) AB360 2021</Copyright>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
